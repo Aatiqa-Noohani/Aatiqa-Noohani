@@ -1,10 +1,11 @@
 <div align="center">
-
+  
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=900&lines=AATIQA+NOOHANI;Data+Analyst+%7C+Data+Scientist;Python+Developer;Transforming+Data+Into+Insights;Building+Intelligent+Solutions"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:FF003C&text=AATIQA%20NOOHANI&fontColor=ffffff&fontSize=50&animation=fadeIn&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20Python%20Developer&descAlignY=70"/>
 
 </div>
+
 
 ---
 
@@ -13,7 +14,7 @@
 ```bash
 WHO AM I
 
-Name      : Aatiqa Attaullah
+Name      : Aatiqa Noohani
 Role      : Data Analyst
 Location  : Pakistan
 Status    : Building Intelligent Solutions
