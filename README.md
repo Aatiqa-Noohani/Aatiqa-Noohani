@@ -1,7 +1,5 @@
 <div align="center">
 
-</div>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=900&lines=AATIQA+NOOHANI;Data+Analyst+%7C+Data+Scientist;Python+Developer;Transforming+Data+Into+Insights;Building+Intelligent+Solutions"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:FF003C&text=AATIQA%20NOOHANI&fontColor=ffffff&fontSize=50&animation=fadeIn&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20Python%20Developer&descAlignY=70"/>
@@ -111,10 +109,6 @@ Classification model using Scikit-Learn algorithms.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aatiqa-Noohani&show_icons=true&theme=radical"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aatiqa-Noohani&layout=compact&theme=radical"/>
-
 </p>
 
 <p align="center">
@@ -128,9 +122,7 @@ Classification model using Scikit-Learn algorithms.
 # 🐍 CONTRIBUTION MATRIX
 
 <p align="center">
-
-<img src="https://github.com/Aatiqa-Noohani/Aatiqa-Noohani/blob/output/github-contribution-grid-snake.svg"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aatiqa-Noohani&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF003C&line=FF003C&point=FFFFFF&hide_title=true"/>
 </p>
 
 ---
